@@ -1,3 +1,7 @@
+/*This a For loop problem by HackerRank The problem is - Given two
+numbers a and b, print each number from a to b. If the number is 1–9, print its English word,
+otherwise print "even" for even numbers and "odd" for odd numbers.*/
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
