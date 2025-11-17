@@ -1,4 +1,4 @@
-//Program to overload ++Operator(post and Pre).
+//Program to overload ++Operator(Pre).
 #include<iostream>
 using namespace std;
 
