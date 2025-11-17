@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main() 
 {
     int digit = 0;
     int list[10];
